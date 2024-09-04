@@ -1,6 +1,8 @@
-![image](https://github.com/user-attachments/assets/2ff983c3-5d81-459d-bae6-e834aadca6ea)Para ter acesso precisa ter PostgresSQL
+Para ter acesso precisa ter PostgresSQL
 e configurar o aplication.propieties e a classe DataConfiguration
 com os dados de usuario e senha do seu banco de dados.
+
+![image](https://github.com/user-attachments/assets/2ff983c3-5d81-459d-bae6-e834aadca6ea)
 
 ![image](https://github.com/user-attachments/assets/681fd0f7-b5c8-4c33-9a6b-b5a1bbe2d6d3)
 
